@@ -1,0 +1,166 @@
+Centro,Jardim São Carlos,0.83
+Centro,Vila Prado,0.96
+Centro,Jardim Bethânia,1.13
+Centro,Santa Mônica,1.17
+Centro,Jardim Paulista,1.32
+Centro,Vila Boa Vista,1.48
+Centro,Jardim Ricetti,1.62
+Centro,Jardim Paraíso,1.64
+Centro,Vila Carmem,1.68
+Centro,Jardim Macarengo,1.71
+Centro,Vila Elizabeth,1.8
+Centro,Jardim Lutfalla,1.84
+Centro,Vila Nery,1.89
+UFSCar,Jardim Guanabara,1.31
+UFSCar,Vila Celina,1.55
+UFSCar,Estância Suiça,1.81
+UFSCar,Vila Costa do Sol,2.08
+UFSCar,Jardim Santa Maria,2.16
+Vila Prado,Vila Carmem,0.87
+Vila Prado,Jardim Paulista,1.12
+Vila Prado,Vila Boa Vista,1.12
+Vila Prado,Jardim São Carlos,1.12
+Vila Prado,Jardim Cruzeiro do Sul,1.58
+Vila Prado,Jardim Pacaembu,1.28
+Vila Prado,Jardim Medeiros,1.8
+Jardim Guanabara,Vila Celina,0.74
+Jardim Guanabara,Jardim Paulistano,0.99
+Jardim Guanabara,Cidade Jardim,1.34
+Santa Felícia,Planalto Paraíso,0.82
+Santa Felícia,Jardim Bandeirantes,0.9
+Santa Felícia,Santa Marta,0.93
+Santa Felícia,Jardim Centenário,1.11
+Santa Felícia,Jardim Santa Paula,1.39
+Santa Felícia,Parque Faber,1.67
+Santa Felícia,Jardim Ipanema,2.04
+Santa Felícia,Parque Fehr,3.19
+Cidade Jardim,Arnold Schmidt,0.52
+Cidade Jardim,Jardim Paulistano,0.59
+Cidade Jardim,Jardim Lutfalla,0.64
+Cidade Jardim,Vila Celina,0.71
+Cidade Jardim,Tijuco Preto,0.72
+Santa Mônica,Jardim Bethânia,0.08
+Santa Mônica,Jardim Paraíso,0.48
+Santa Mônica,Jardim São Carlos,0.51
+Santa Mônica,Jardim Paulista,0.93
+Santa Mônica,Jardim Lutfalla,1.12
+Parque Faber,Planalto Paraíso,1.29
+Parque Faber,Jardim Paulista,1.49
+Parque Faber,Vila Boa Vista,1.63
+Parque Faber,Vila Carmem,1.84
+Vila Elizabeth,Jardim Macarengo,0.56
+Vila Elizabeth,Vila Costa do Sol,0.74
+Vila Elizabeth,Tijuco Preto,0.76
+Vila Elizabeth,Estância Suiça,1.06
+Vila Elizabeth,Vila São José,1.09
+Vila Elizabeth,Jardim Santa Maria,1.37
+Vila Elizabeth,Rancho Velho,1.44
+Vila Elizabeth,Jacobucci,1.26
+Jardim Paulista,Jardim São Carlos,0.62
+Jardim Paulista,Jardim Bethânia,0.86
+Jardim Paulista,Vila Carmem,0.96
+Jardim Paulista,Vila Boa Vista,0.97
+Jardim São Carlos,Jardim Bethânia,0.44
+Jardim São Carlos,Jardim Paraíso,0.95
+Jardim São Carlos,Vila Boa Vista,1.5
+Jardim São Carlos,Vila Carmem,1.39
+Vila Monteiro,Jardim Nova São Carlos,0.27
+Vila Monteiro,Jardim Ricetti,0.4
+Vila Monteiro,Vila Alpes,0.42
+Vila Monteiro,Azulville,0.73
+Vila Monteiro,Jardim Cardinali,0.79
+Vila Monteiro,Vila Izabel,1.22
+Jardim Cardinali,Rancho Velho,0.79
+Jardim Cardinali,Azulville,0.79
+Jardim Cardinali,Jardim Ricetti,0.84
+Jardim Cardinali,Jardim Nova São Carlos,1.0
+Jardim Cardinali,Jardim Tangará,1.9
+Jardim Cardinali,Jardim São Rafael,2.27
+Jardim Tangará,Jardim São Rafael,0.7
+Jardim Tangará,Rancho Velho,1.5
+Jardim Tangará,Jacobucci,1.83
+Jardim Tangará,Azulville,1.91
+Jardim Lutfalla,Tijuco Preto,0.54
+Jardim Lutfalla,Jardim Macarengo,0.57
+Jardim Lutfalla,Arnold Schmidt,0.72
+Jardim Lutfalla,Jardim Paraíso,1.02
+Vila São José,Jardim Santa Maria,0.28
+Vila São José,Jacobucci,0.43
+Vila São José,Estância Suiça,0.57
+Vila São José,Vila Costa do Sol,0.9
+Vila São José,Rancho Velho,1.45
+Jardim Cruzeiro do Sul,Jardim Pacaembu,0.36
+Jardim Cruzeiro do Sul,Vila Izabel,1.31
+Jardim Cruzeiro do Sul,Vila Alpes,1.84
+Jardim Cruzeiro do Sul,Jardim Ricetti,2.06
+Jardim Cruzeiro do Sul,Cidade Aracy,2.53
+Jardim Paraíso,Jardim Bethânia,0.53
+Jardim Paraíso,Planalto Paraíso,0.99
+Vila Boa Vista,Vila Carmem,0.26
+Vila Boa Vista,Jardim Medeiros,1.26
+Vila Boa Vista,Jardim Zavaglia,2.97
+Vila Boa Vista,Antenor Garcia,2.83
+Jardim Zavaglia,Antenor Garcia,0.78
+Jardim Zavaglia,Cidade Aracy,1.73
+Jardim Zavaglia,Jardim Medeiros,1.85
+Jardim Zavaglia,Vila Carmem,3.04
+Azulville,Jardim Nova São Carlos,0.71
+Azulville,Vila Alpes,1.09
+Azulville,Jardim Ricetti,1.09
+Azulville,Jardim São Rafael,2.03
+Azulville,Rancho Velho,1.41
+Jardim Santa Paula,Jardim Centenário,0.4
+Jardim Santa Paula,Arnold Schmidt,0.43
+Jardim Santa Paula,Jardim Bandeirantes,0.5
+Jardim Santa Paula,Santa Marta,0.7
+Jardim Santa Paula,Jardim Paulistano,0.78
+Jardim Santa Paula,Planalto Paraíso,1.17
+Jardim Bandeirantes,Jardim Centenário,0.4
+Jardim Bandeirantes,Santa Marta,0.52
+Jardim Bandeirantes,Planalto Paraíso,0.76
+Jardim Bandeirantes,Jardim Ipanema,2.77
+Jardim Bandeirantes,Parque Fehr,3.86
+Vila Celina,Jardim Paulistano,0.71
+Vila Celina,Tijuco Preto,1.13
+Jardim Nova São Carlos,Vila Alpes,0.39
+Jardim Nova São Carlos,Jardim Ricetti,0.63
+Jardim Nova São Carlos,Vila Izabel,1.07
+Santa Marta,Jardim Centenário,0.3
+Santa Marta,Arnold Schmidt,1.11
+Santa Marta,Jardim Ipanema,2.43
+Santa Marta,Parque Fehr,3.46
+Jardim Pacaembu,Vila Izabel,1.59
+Jardim Pacaembu,Vila Carmem,1.75
+Jardim Pacaembu,Jardim Medeiros,1.78
+Jardim Pacaembu,Antenor Garcia,2.77
+Jardim Pacaembu,Cidade Aracy,2.46
+Jardim Macarengo,Tijuco Preto,0.35
+Jardim Macarengo,Vila Costa do Sol,0.77
+Jardim São Rafael,Rancho Velho,2.06
+Jardim São Rafael,Jacobucci,2.53
+Vila Carmem,Jardim Medeiros,1.26
+Jardim Paulistano,Arnold Schmidt,0.63
+Jardim Paulistano,Jardim Centenário,0.94
+Vila Costa do Sol,Estância Suiça,0.49
+Vila Costa do Sol,Tijuco Preto,0.57
+Vila Costa do Sol,Jardim Santa Maria,1.15
+Vila Izabel,Vila Alpes,0.82
+Vila Izabel,Jardim Ricetti,1.27
+Jardim Ipanema,Parque Fehr,1.17
+Jardim Ipanema,Jardim Centenário,2.73
+Jardim Santa Maria,Jacobucci,0.41
+Jardim Santa Maria,Estância Suiça,0.74
+Jardim Medeiros,Antenor Garcia,1.58
+Jardim Medeiros,Cidade Aracy,1.97
+Arnold Schmidt,Jardim Centenário,0.81
+Planalto Paraíso,Jardim Centenário,1.15
+Rancho Velho,Jacobucci,1.14
+Estância Suiça,Jacobucci,1.0
+Antenor Garcia,Cidade Aracy,0.96
+Jardim Centenário,Parque Fehr,3.76
+Vila Alpes,Jardim Ricetti,0.49
+Vila Nery,Jacobucci,1.16
+Vila Nery,Rancho Velho,0.59
+Vila Nery,Vila São José,1.31
+Vila Nery,Jardim Cardinali,0.96
+Vila Nery,Vila Elizabeth,0.91
